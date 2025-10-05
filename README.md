@@ -6,7 +6,7 @@ A functional prototype of a mini e-learning platform built with **React** and **
 
 ## 🌐 Live Demo
 
-🔗 **Live Deployment:** [View Project Here](https://your-deployment-link.netlify.app) 
+🔗 **Live Deployment:** [View Project Here](https://new-chat-ugdq.bolt.host/) 
 
 ---
 
@@ -28,74 +28,10 @@ A functional prototype of a mini e-learning platform built with **React** and **
 - **Styling:** Tailwind CSS  
 - **Routing:** React Router  
 - **Storage:** localStorage (for auth and progress)  
-- **State Management:** React Hooks (`useState`, `useEffect`)  
+- **State Management:** React Hooks (`useState`, `useEffect`)
 
----
 
-## 📁 Project Structure
-
-src/
-├── components/
-│ ├── Navbar.jsx
-│ ├── CourseList.jsx
-│ ├── CourseDetail.jsx
-│ └── Auth.jsx
-├── data/
-│ └── courses.json
-├── App.jsx
-├── main.jsx
-└── index.css
-
-yaml
-Copy code
-
----
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/mini-elearning-platform.git
-   cd mini-elearning-platform
-Install dependencies
-
-bash
-Copy code
-npm install
-Run the app
-
-bash
-Copy code
-npm run dev
-Open in your browser
-
-arduino
-Copy code
-http://localhost:5173
-🚢 Deployment
-To deploy your app live:
-
-Push your project to a GitHub repository.
-
-Go to Netlify or Vercel.
-
-Connect your GitHub repository.
-
-Select the main branch and deploy — your app will be live within seconds!
-
-Copy your live URL and replace it in the Live Demo section above.
-
-🧩 Future Enhancements
-🔐 Integrate Firebase or Supabase authentication.
-
-🧠 Add AI-powered course recommendations.
-
-🗂️ Backend support for dynamic course management.
-
-🏆 User dashboard with progress tracking and certificates.
-
-🌐 Improved deployment setup with environment variables and build automation.
-
+  
 👨‍💻 Author
 Abraham Sitori
 Economics & Statistics major | Aspiring AI & Software Engineer
