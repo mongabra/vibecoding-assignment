@@ -34,7 +34,11 @@ A functional prototype of a mini e-learning platform built with **React** and **
   
 👨‍💻 Author
 Abraham Sitori
+
+
 Economics & Statistics major | Aspiring AI & Software Engineer
+
+
 🚀 Guided and mentored project by ChatGPT (GPT-5)
 
 📝 License
